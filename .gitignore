@@ -1,0 +1,21 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# Logs
+*.log
+scholar_monitor.log
+
+# Database
+*.db
+scholar_publications.db
